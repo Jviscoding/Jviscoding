@@ -1,12 +1,7 @@
-# Hi, I'm Jervis 👋
+# Hi, I'm J 👋
 
-Full Stack Developer focused on building inventory management systems, scalable backend services, and database-driven applications.
+Full Stack Developer focused on building inventory management systems and scalable backend applications.
 
-Currently developing a dynamic inventory platform using React, TypeScript, PHP, and PostgreSQL.
+I enjoy designing database-driven systems, REST APIs, and clean user interfaces using modern web technologies.
 
-## Current Focus
-
-- 🔭 Building an Inventory Management System
-- 🌱 Learning Software Architecture & Backend Design
-- ⚡ React, TypeScript, PHP, PostgreSQL
-- 📚 Continuously improving through hands-on projects
+Currently building a dynamic inventory platform using React, TypeScript, PHP, and PostgreSQL.
