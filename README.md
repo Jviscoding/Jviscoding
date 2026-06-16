@@ -12,3 +12,10 @@ Currently building a dynamic inventory platform using React, TypeScript, PHP, an
 - Database Design (PostgreSQL, SQL optimization)
 - Frontend Development (React + TypeScript)
 - System Design for inventory and business tools
+## Current Project
+
+📦 Inventory Management System  
+- Brand-based product organization  
+- Dynamic table schema system  
+- KPI dashboard  
+- REST API backend  
