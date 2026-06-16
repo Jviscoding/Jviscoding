@@ -1,4 +1,4 @@
-# Hi, I'm Jvis 👋 
+# Hi, I'm Jviscoding
 
 ### **Full-Stack Developer | Backend & Database Systems Programmer**
 
@@ -72,9 +72,8 @@ An interactive application designed for calculating and plotting complex numeric
 
 
 ---
-
 ## 🎯 Current Engineering Goals
 
-* **Scalable Systems:** Deep-diving into system design patterns, focusing on caching strategies (Redis) and message brokers.
-* **Infrastructure:** Containerizing multi-service architectures with Docker for seamless local development and production deployments.
-* **Open Source:** Contributing to real-world software, backend libraries, and developer tooling.
+* **High-Performance Backend Systems:** Designing highly scalable backend architectures optimized for fast response times and efficient data retrieval.
+* **Performance Optimization:** Improving system speed through efficient data fetching strategies, caching layers, and reduced database overhead.
+* **Scalable Infrastructure:** Building backend systems that can handle growth in traffic and data while maintaining consistent performance.
