@@ -60,7 +60,8 @@ A modular, production-style inventory platform built to handle complex enterpris
 ---
 ### 3. 🧮 **[Numerical Methods Web App](https://numerical-method.pages.dev/)** 
 An interactive application designed for calculating and plotting complex numerical analysis and mathematical models.
-* ** Live Application Demo:** [Launch DSP Web Platform]([https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage](https://numerical-method.pages.dev/)
+* ** Live Application Demo:** [Launch DSP Web Platform](https://numerical-method.pages.dev/)
+
 ---
 
 ## 📊 GitHub Analytics
