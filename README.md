@@ -4,7 +4,7 @@
 
 I specialize in designing scalable database architectures, robust REST APIs, and data-driven web applications. Most of my day-to-day developing is focused on the mechanics of business software, such as inventory management platforms and high-throughput dashboards.
 
-[💼 LinkedIn](your-linkedin-link) · [🌐 Portfolio](your-portfolio-link) · [✉️ Email](mailto:your-email@example.com)
+[💼 LinkedIn](your-linkedin-link) · [🌐 Portfolio](https://jviscoding.github.io/portfolio/) · [✉️ Email](johnvincentmanalastasliguit@gmail.com)
 
 ---
 
