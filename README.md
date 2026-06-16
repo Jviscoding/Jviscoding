@@ -19,3 +19,11 @@ Currently building a dynamic inventory platform using React, TypeScript, PHP, an
 - Dynamic table schema system  
 - KPI dashboard  
 - REST API backend  
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
