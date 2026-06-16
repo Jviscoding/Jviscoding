@@ -45,7 +45,7 @@ A high-performance mathematical computing environment built entirely on the web 
 
 * **Frontend Computation:** Built an optimized mathematical calculation dashboard leveraging reactive state machines in **React** to process incoming complex arrays seamlessly.
 * **Architecture:** Implemented modular component routing allowing users to dynamically interact with deep analytical tooling on a single page lifecycle.
-* **⚡ Live Application Demo:** [Launch DSP Web Platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)
+* ** Live Application Demo:** [Launch DSP Web Platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)
 
 ---
 
@@ -57,6 +57,10 @@ A modular, production-style inventory platform built to handle complex enterpris
 * **Frontend Performance:** Developed a responsive dashboard using **React + TypeScript**, featuring a dynamic table system, custom KPI metrics, and intuitive UI state management.
 * *Status: Active Development / Production Hardening*
 
+---
+### 3. 🧮 **[Numerical Methods Web App](https://numerical-method.pages.dev/)** 
+An interactive application designed for calculating and plotting complex numerical analysis and mathematical models.
+* ** Live Application Demo:** [Launch DSP Web Platform]([https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage](https://numerical-method.pages.dev/)
 ---
 
 ## 📊 GitHub Analytics
