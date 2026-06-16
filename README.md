@@ -56,8 +56,7 @@ A modular, production-style inventory platform built to handle complex enterpris
 
 | Git Performance | Language Distribution |
 | :-: | :-: |
-![Stats](https://github-readme-stats.vercel.app/api?username=Jviscoding\&show_icons=true\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding\&layout=compact\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Jviscoding\&show_icons=true\&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding\&layout=compact\&hide_border=true)
 
 
 ---
