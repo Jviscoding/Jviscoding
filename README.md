@@ -38,15 +38,10 @@ I specialize in designing scalable database architectures, robust REST APIs, and
 
 ---
 
-## 📦 Featured Project
+## 📦 Featured Projects & Live Demos
 
-### ** Inventory Management System (IMS)**
-A modular, production-style inventory platform built to handle complex enterprise workflows, scalable product catalogs, and real-time analytics.
-
-* **System Architecture:** Designed a flexible, dynamic product & brand relational schema using **PostgreSQL** to prevent data redundancy and optimize search queries.
-* **Backend Engineering:** Built a secure **PHP REST API** handling session-based authentication, strict data validation, and business logic routing.
-* **Frontend Performance:** Developed a responsive dashboard using **React + TypeScript**, featuring a dynamic table system, custom KPI metrics, and intuitive UI state management.
-* *Status: Active Development / Production Hardening*
+* 📈 **[Digital Signal Processing Platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)** — A web-based computing engine for signal compilation and data visualization built with React.
+* 📦 **Inventory Management System** — A modular full-stack business platform built with React, TypeScript, PHP, and PostgreSQL.
 
 ---
 
@@ -54,8 +49,7 @@ A modular, production-style inventory platform built to handle complex enterpris
 
 | Git Performance | Language Distribution |
 | :-: | :-: |
-![Stats](https://github-readme-stats.vercel.app/api?username=Jviscoding\&show_icons=true\&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding\&layout=compact\&hide_border=true)
-
+| ![Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jviscoding&show_icons=true&hide_border=true&theme=visual_studio_dark) | ![Top Languages](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jviscoding&layout=compact&hide_border=true&theme=visual_studio_dark) |
 
 ---
 
