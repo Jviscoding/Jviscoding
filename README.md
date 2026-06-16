@@ -1,6 +1,6 @@
 # Hi, I'm Jvis 👋 
 
-### **Full-Stack Developer | Backend & Database Systems Developer**
+### **Full-Stack Developer | Backend & Database Systems Programmer**
 
 I specialize in designing scalable database architectures, robust REST APIs, and data-driven web applications. Most of my day-to-day developing is focused on the mechanics of business software, such as inventory management platforms and high-throughput dashboards.
 
