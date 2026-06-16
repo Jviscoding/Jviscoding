@@ -40,9 +40,16 @@ I specialize in designing scalable database architectures, robust REST APIs, and
 
 ## 📦 Featured Projects & Live Demos
 
-* 📈 **[Digital Signal Processing Platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)** — A web-based computing engine for signal compilation and data visualization built with React.
+### 1. 📈 **Interactive Digital Signal Processing (DSP) Platform**
+A high-performance mathematical computing environment built entirely on the web to handle signal compilation, visualization, and dynamic algorithm processing.
 
-### **Inventory Management System (IMS)**
+* **Frontend Computation:** Built an optimized mathematical calculation dashboard leveraging reactive state machines in **React** to process incoming complex arrays seamlessly.
+* **Architecture:** Implemented modular component routing allowing users to dynamically interact with deep analytical tooling on a single page lifecycle.
+* **⚡ Live Application Demo:** [Launch DSP Web Platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)
+
+---
+
+### 2. 📦 **Inventory Management System (IMS)**
 A modular, production-style inventory platform built to handle complex enterprise workflows, scalable product catalogs, and real-time analytics.
 
 * **System Architecture:** Designed a flexible, dynamic product & brand relational schema using **PostgreSQL** to prevent data redundancy and optimize search queries.
