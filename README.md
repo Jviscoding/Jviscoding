@@ -30,6 +30,6 @@ Currently building a dynamic inventory platform using React, TypeScript, PHP, an
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Jviscoding&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding&layout=compact)
