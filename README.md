@@ -58,7 +58,7 @@ A modular, production-style inventory platform built to handle complex enterpris
 * *Status: Active Development / Production Hardening*
 
 ---
-### 3. 🧮 **[Numerical Methods Web App](https://numerical-method.pages.dev/)** 
+### 3. 🧮 **Numerical Methods Web App** 
 An interactive application designed for calculating and plotting complex numerical analysis and mathematical models.
 * ** Live Application Demo:** [Launch Numerical Method Solver](https://numerical-method.pages.dev/)
 
