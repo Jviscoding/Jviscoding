@@ -1,8 +1,8 @@
 # Hi, I'm Jvis 👋 
 
-### **Full-Stack Engineer | Backend & Database Systems Specialist**
+### **Full-Stack Developer | Backend & Database Systems Developer**
 
-I specialize in designing scalable database architectures, robust REST APIs, and data-driven web applications. Most of my day-to-day engineering is focused on the mechanics of business-critical software, such as inventory management platforms and high-throughput dashboards.
+I specialize in designing scalable database architectures, robust REST APIs, and data-driven web applications. Most of my day-to-day developing is focused on the mechanics of business software, such as inventory management platforms and high-throughput dashboards.
 
 [💼 LinkedIn](your-linkedin-link) · [🌐 Portfolio](your-portfolio-link) · [✉️ Email](mailto:your-email@example.com)
 
@@ -13,7 +13,7 @@ I specialize in designing scalable database architectures, robust REST APIs, and
 > "The difference between a working application and a production-grade system lies in database integrity and predictable API lifecycles."
 
 * **Backend & API Design:** Crafting secure, stateless and session-based RESTful APIs using PHP, focusing on clean separation of concerns and robust authentication.
-* **Database Engineering:** Advanced PostgreSQL relational modeling, schema migrations, indexing strategies, and query optimization for high-performance data retrieval.
+* **Database Managing:** Advanced PostgreSQL relational modeling, schema migrations, indexing strategies, and query optimization for high-performance data retrieval.
 * **Frontend Architecture:** Building predictable, type-safe user interfaces with React and TypeScript, leveraging structured component hierarchies and efficient state management.
 
 ---
@@ -42,7 +42,7 @@ I specialize in designing scalable database architectures, robust REST APIs, and
 
 ## 📦 Featured Project
 
-### **Advanced Inventory Management System (IMS)**
+### ** Inventory Management System (IMS)**
 A modular, production-style inventory platform built to handle complex enterprise workflows, scalable product catalogs, and real-time analytics.
 
 * **System Architecture:** Designed a flexible, dynamic product & brand relational schema using **PostgreSQL** to prevent data redundancy and optimize search queries.
