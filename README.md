@@ -1,4 +1,4 @@
-# Hi, I'm Jviscoding
+# Hi, I'm John Vincent Liguit
 
 ### **Full-Stack Developer | Backend & Database Systems Programmer**
 
