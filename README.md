@@ -2,7 +2,7 @@
 
 <img src="./assets/header-banner.svg" width="100%" alt="John Vincent Liguit — Full-Stack Developer, Backend & Database Systems" />
 
-<sub>I design the parts of an application most people never see: the schema that won't break under scale, the API that fails predictably, the query that returns in milliseconds instead of seconds.</sub>
+
 
 <br/>
 <br/>
