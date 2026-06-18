@@ -113,6 +113,18 @@ An interactive app for plotting and solving numerical analysis models.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" width="100%" valign="top">
+
+### 💬 Real-Time Messaging App
+A chat application built on vanilla JavaScript, HTML, and CSS, with Firebase handling real-time message sync, presence, and persistence — no framework, no build step, just the platform itself doing the heavy lifting.
+
+- **Real-time sync** — messages propagate instantly across clients through Firebase's realtime listeners, no polling
+- **Frontend** — hand-built UI in native JavaScript, HTML, and CSS, demonstrating the fundamentals underneath the frameworks above
+- **Persistence** — Firebase backing store for message history and user state
+
+</td>
+</tr>
 </table>
 
 <br/>
