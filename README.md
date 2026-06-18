@@ -15,6 +15,8 @@
 
 ## `>` Operating principle
 
+> Most projects don't fail at the UI. They fail two layers down — in a schema that didn't anticipate growth, or an API contract that nobody enforced. That's the layer I work in.
+
 A working application proves the idea. A production-grade system proves the *architecture* — database integrity that holds under concurrent writes, and an API lifecycle predictable enough that the frontend team never has to guess what comes back.
 
 <br/>
@@ -115,6 +117,10 @@ An interactive app for plotting and solving numerical analysis models.
 ## `>` GitHub activity
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Jviscoding&hide_border=true&background=00000000&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&currStreakNum=E6FFFA&sideLabels=8B949E&sideNums=E6FFFA&dates=8B949E&card_width=660" width="80%" />
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jviscoding&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=5EEAD4&icon_color=5EEAD4&text_color=8B949E&ring_color=5EEAD4" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding&layout=compact&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=8B949E&langs_count=8" width="42%" />
