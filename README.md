@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=900&color=5EEAD4&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=80&lines=SELECT+name+FROM+engineers;WHERE+focus+%3D+backend_systems;--+John+Vincent+Liguit" alt="Typing SVG" />
-
-<br/>
-
-# John Vincent Liguit
-
-**Full-Stack Developer — Backend & Database Systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:5EEAD4&height=220&section=header&text=John%20Vincent%20Liguit&fontSize=46&fontColor=E6FFFA&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20Backend%20%26%20Database%20Systems&descSize=18&descColor=5EEAD4&descAlignY=58&animation=fadeIn" width="100%" alt="Header banner" />
 
 <sub>I design the parts of an application most people never see: the schema that won't break under scale, the API that fails predictably, the query that returns in milliseconds instead of seconds.</sub>
 
+<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
@@ -17,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnvincentmanalastasliguit@gmail.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:5EEAD4&height=4&section=header" width="100%"/>
 
 <br/>
 
