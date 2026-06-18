@@ -1,0 +1,67 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color"
+          values="#0D1117;#0F2C28;#0D1117"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="55%" stop-color="#134E4A">
+        <animate attributeName="stop-color"
+          values="#134E4A;#0E5E55;#134E4A"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#5EEAD4">
+        <animate attributeName="stop-color"
+          values="#5EEAD4;#2DD4BF;#5EEAD4"
+          dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bgGrad)" />
+
+  <!-- Continuously scrolling wave layer 1 (back, slower, dimmer) -->
+  <path fill="#5EEAD4" opacity="0.16">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+        M0,190 C150,160 300,220 450,190 C600,160 750,220 900,190 C1050,160 1200,220 1350,190 L1350,260 L0,260 Z;
+        M0,200 C150,230 300,170 450,200 C600,230 750,170 900,200 C1050,230 1200,170 1350,200 L1350,260 L0,260 Z;
+        M0,190 C150,160 300,220 450,190 C600,160 750,220 900,190 C1050,160 1200,220 1350,190 L1350,260 L0,260 Z" />
+  </path>
+
+  <!-- Continuously scrolling wave layer 2 (front, faster, brighter) -->
+  <path fill="#0D1117" opacity="0.5">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,225 C200,200 400,250 600,225 C800,200 1000,250 1200,225 L1200,260 L0,260 Z;
+        M0,235 C200,260 400,200 600,235 C800,260 1000,200 1200,235 L1200,260 L0,260 Z;
+        M0,225 C200,200 400,250 600,225 C800,200 1000,250 1200,225 L1200,260 L0,260 Z" />
+  </path>
+
+  <!-- Drifting accent dot field, subtle ambient motion -->
+  <circle cx="120" cy="60" r="2.5" fill="#5EEAD4" opacity="0.5">
+    <animate attributeName="cy" values="60;48;60" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1080" cy="50" r="2" fill="#5EEAD4" opacity="0.4">
+    <animate attributeName="cy" values="50;65;50" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="980" cy="190" r="2" fill="#E6FFFA" opacity="0.3">
+    <animate attributeName="cy" values="190;178;190" dur="4.5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="160" cy="195" r="2" fill="#E6FFFA" opacity="0.3">
+    <animate attributeName="cy" values="195;208;195" dur="5.5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Header text -->
+  <text x="600" y="112" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="46" font-weight="700" fill="#E6FFFA">
+    John Vincent Liguit
+  </text>
+  <text x="600" y="150" text-anchor="middle"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="19" font-weight="500" fill="#5EEAD4" letter-spacing="0.3">
+    Full-Stack Developer — Backend &amp; Database Systems
+  </text>
+</svg>
