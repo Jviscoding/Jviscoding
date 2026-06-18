@@ -2,8 +2,6 @@
 
 <img src="./assets/header-banner.svg" width="100%" alt="John Vincent Liguit — Full-Stack Developer, Backend & Database Systems" />
 
-
-
 <br/>
 <br/>
 
