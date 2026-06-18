@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:134E4A,100:5EEAD4&height=220&section=header&text=John%20Vincent%20Liguit&fontSize=46&fontColor=E6FFFA&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20Backend%20%26%20Database%20Systems&descSize=18&descColor=5EEAD4&descAlignY=58&animation=fadeIn" width="100%" alt="Header banner" />
+<img src="./assets/header-banner.svg" width="100%" alt="John Vincent Liguit — Full-Stack Developer, Backend & Database Systems" />
 
 <sub>I design the parts of an application most people never see: the schema that won't break under scale, the API that fails predictably, the query that returns in milliseconds instead of seconds.</sub>
 
