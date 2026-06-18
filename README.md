@@ -15,8 +15,6 @@
 
 ## `>` Operating principle
 
-> Most projects don't fail at the UI. They fail two layers down — in a schema that didn't anticipate growth, or an API contract that nobody enforced. That's the layer I work in.
-
 A working application proves the idea. A production-grade system proves the *architecture* — database integrity that holds under concurrent writes, and an API lifecycle predictable enough that the frontend team never has to guess what comes back.
 
 <br/>
