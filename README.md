@@ -120,7 +120,7 @@ An interactive app for plotting and solving numerical analysis models.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jviscoding&show_icons=true&hide_border=true&theme=transparent&title_color=5EEAD4&icon_color=5EEAD4&text_color=8B949E&ring_color=5EEAD4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jviscoding&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=5EEAD4&icon_color=5EEAD4&text_color=8B949E&ring_color=5EEAD4" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding&layout=compact&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=8B949E&langs_count=8" width="42%" />
 
 </div>
