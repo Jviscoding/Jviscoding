@@ -13,7 +13,7 @@
 
 <br/>
 
-## `>` Operating principle
+## `>` Operating Principle
 
 > Most projects don't fail at the UI. They fail two layers down — in a schema that didn't anticipate growth, or an API contract that nobody enforced. That's the layer I work in.
 
@@ -21,34 +21,20 @@ A working application proves the idea. A production-grade system proves the *arc
 
 <br/>
 
-## `>` Where I spend my time
-
-<table>
-<tr>
-<td width="33%" valign="top">
+## `>` Core Focus Areas
 
 ### 🗄️ Database Layer
 PostgreSQL relational modeling, schema migrations, indexing strategy, and query optimization tuned for high-throughput read paths.
 
-</td>
-<td width="33%" valign="top">
-
 ### 🔌 API & Backend
 Secure REST APIs in PHP — stateless and session-based — with clean separation of concerns and authentication that doesn't leak edge cases.
-
-</td>
-<td width="33%" valign="top">
 
 ### 🧩 Frontend Architecture
 Type-safe interfaces in React + TypeScript, built on structured component hierarchies instead of ad-hoc state.
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-## `>` Stack
+## `>` Tech Stack
 
 <div align="center">
 
@@ -68,7 +54,7 @@ Type-safe interfaces in React + TypeScript, built on structured component hierar
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Databases & Platforms**
+**Databases & Tools**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -81,74 +67,56 @@ Type-safe interfaces in React + TypeScript, built on structured component hierar
 
 <br/>
 
-## `>` Featured builds
-
-<table>
-<tr>
-<td width="60%" valign="top">
+## `>` Featured Builds
 
 ### 📦 Inventory Management System
 A modular, production-style inventory platform built for enterprise workflows, scalable product catalogs, and real-time analytics.
-
-- **Schema** — flexible product/brand relational model in PostgreSQL, designed to prevent data redundancy and keep search queries fast
-- **API** — PHP REST layer handling session-based auth, strict data validation, and business-logic routing
-- **Frontend** — React + TypeScript dashboard with a dynamic table system and custom KPI metrics
-
-`Status: Active development / production hardening`
-
-</td>
-<td width="40%" valign="top">
+* **Schema Design:** Flexible product/brand relational model in PostgreSQL, structured to eliminate data redundancy and keep search queries fast.
+* **API Architecture:** PHP REST layer handling secure session-based authentication, strict data validation, and business-logic routing.
+* **Frontend:** React + TypeScript dashboard featuring a dynamic table system and custom KPI data tracking.
+> `Status: Active development / production hardening`
 
 ### 📈 DSP Platform
 A browser-based signal processing environment for compiling, visualizing, and running algorithms against complex arrays in real time, using reactive state machines in React.
-
-**[→ Launch the platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)**
-
-<br/>
+👉 **[Launch the platform](https://jviscoding.github.io/digital-signal-processing-compiled-react-based/#/mainpage)**
 
 ### 🧮 Numerical Methods Solver
-An interactive app for plotting and solving numerical analysis models.
-
-**[→ Launch the solver](https://numerical-method.pages.dev/)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" width="100%" valign="top">
+An interactive web application for plotting and solving complex numerical analysis models.
+👉 **[Launch the solver](https://numerical-method.pages.dev/)**
 
 ### 💬 Real-Time Messaging App
-A chat application built on vanilla JavaScript, HTML, and CSS, with Firebase handling real-time message sync, presence, and persistence — no framework, no build step, just the platform itself doing the heavy lifting.
-
-- **Real-time sync** — messages propagate instantly across clients through Firebase's realtime listeners, no polling
-- **Frontend** — hand-built UI in native JavaScript, HTML, and CSS, demonstrating the fundamentals underneath the frameworks above
-- **Persistence** — Firebase backing store for message history and user state
-
-</td>
-</tr>
-</table>
+A chat application built on vanilla JavaScript, HTML, and CSS, leveraging Firebase for real-time data synchronization, presence tracking, and data persistence.
+* **Real-time Sync:** Messages propagate instantly across clients through Firebase's native realtime listeners, completely bypassing the need for polling.
+* **Vanilla Architecture:** Hand-built UI written entirely in native JS, proving mastery over core web platform APIs without reliance on heavy frameworks.
 
 <br/>
 
-## `>` GitHub activity
+## `>` Current Focus & R&D
+
+* **High-Throughput Backends:** Tuning backend architectures for fast response times and structural stability under heavy concurrent load.
+* **Caching & Fetch Optimization:** Minimizing database overhead via fine-tuned caching layers and smarter data-fetching patterns.
+* **Scalable Infrastructure:** Engineering predictable systems built to absorb organic data and traffic growth without requiring architectural rewrites.
+
+<br/>
+
+## `>` Activity & Contribution Metrics
 
 <div align="center">
+
+<!-- Dynamic Contribution Line Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jviscoding&bg_color=00000000&color=5EEAD4&line=5EEAD4&point=E6FFFA&area=true&hide_border=true" width="100%" alt="John's Contribution Graph" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Jviscoding&hide_border=true&background=00000000&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&currStreakNum=E6FFFA&sideLabels=8B949E&sideNums=E6FFFA&dates=8B949E&card_width=660" width="80%" />
 
 <br/>
 
+<!-- Fixed Top Languages Layout to Show Colored Icons -->
 <img src="https://github-readme-stats.vercel.app/api?username=Jviscoding&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=5EEAD4&icon_color=5EEAD4&text_color=8B949E&ring_color=5EEAD4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding&layout=compact&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=8B949E&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jviscoding&hide_border=true&theme=transparent&title_color=5EEAD4&text_color=8B949E&langs_count=6" width="49%" />
 
 </div>
-
-<br/>
-
-## `>` Current focus
-
-- **High-throughput backends** — architectures tuned for fast response times under real load, not just demo conditions
-- **Caching & fetch strategy** — trimming database overhead through smarter data-fetching patterns and caching layers
-- **Infrastructure that scales** — systems built to absorb growth in traffic and data without a rewrite
 
 <br/>
 
